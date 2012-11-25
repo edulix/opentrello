@@ -1,0 +1,5 @@
+[Filters]
+Excludes=*.pyc,*/.*,*/*~
+
+[Project]
+VersionControlSupport=kdevgit
